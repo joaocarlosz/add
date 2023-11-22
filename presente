@@ -1,0 +1,10 @@
+<meta name="viewiport" content="width=device-width,unitial-scale=1.0" />
+
+criar cass na foto 1° depois:
+
+#foto{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
